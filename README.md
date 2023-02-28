@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/DjYqNVITTewEM/giphy.gif" width="60"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=19&pause=1000&color=209652&background=FF8DEA00&center=true&vCenter=true&width=435&height=30&lines=Hi%2C+I'm+Kartik+Aggarwal)](https://github.com/Kartik007007)
 
 ---
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kartik007007/&title=Profile%20Views)
+![Profile Views](https://gpvc.arturio.dev/kartik007007)
   
 <img alt="Coding" align="right" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
   
